@@ -53,7 +53,7 @@
 </a> &nbsp;&nbsp;
 
 <a href="https://www.instagram.com/crissaya00/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" width="40">
+    <img src="https://ny.wikipedia.org/wiki/File:Instagram_icon.png" alt="Instagram" width="40">
 </a>
 
 
