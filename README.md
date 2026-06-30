@@ -15,9 +15,7 @@
 💻 Passionate about **Networking, Graph Theory, and Software Development**  
 🌸 **Anime Lover**  
 ♟️ **Chess Player**
-
 🏴‍☠️ **Nakama**
-
 💠 **A'TIN**
 
 ---
