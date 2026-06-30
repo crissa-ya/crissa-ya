@@ -53,7 +53,7 @@
 </a> &nbsp;&nbsp;
 
 <a href="https://www.instagram.com/crissaya00/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Instagram" width="40">
+    <img src="https://img.magnific.com/premium-psd/instagram-logo_971166-164497.jpg?semt=ais_hybrid&w=740&q=80" alt="Instagram" width="40">
 </a> 
 
 
